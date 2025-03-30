@@ -14,15 +14,24 @@ Je suis actuellement en exploration de l'écosystème **Django**, élargissant m
 
 ## `/stack`
 
-```javascript
-const skills = {
-  langages: ['JavaScript', 'TypeScript', 'Python'],
-  frameworks: ['Vuejs', 'Expres', 'Django'],
-  outils: ['Git', 'Tailwind CSS'],
-  bases_de_données: ['PostgreSQL', 'MySQL', 'Sqlite']
-};
-
-export default skills;
+```python
+class Skills:
+    def __init__(self):
+        self.langages = ["JavaScript", "TypeScript", "Python"]
+        self.frameworks = ["React", "NestJS", "Django"]
+        self.outils = ["Git", "Tailwind CSS"]
+        self.bases_de_données = ["PostgreSQL", "MySQL"]
+        
+    def get_stack(self):
+        return {
+            "langages": self.langages,
+            "frameworks": self.frameworks,
+            "outils": self.outils,
+            "bases_de_données": self.bases_de_données
+        }
+        
+dev_skills = Skills()
+print(dev_skills.get_stack())
 ```
 
 ---
@@ -36,4 +45,3 @@ export default skills;
 ![Séquence](https://github-readme-streak-stats.herokuapp.com/?user=leonidsergueigr&theme=dark&hide_border=true&background=0D1117)
 
 </div>
-

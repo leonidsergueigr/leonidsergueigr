@@ -2,7 +2,7 @@
 
 > *Architecte numérique façonnant des expériences web depuis les fondations jusqu'aux interfaces*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leonidgr.netlify.app-212121?style=for-the-badge&logo=netlify)](https://leonidgr.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leonidgr.netlify.app-212121?style=for-the-badge&logo=netlify)](https://leonidsergueigr.netlify.app/)
 [![Contact](https://img.shields.io/badge/Contact-leonidgrdev@gmail.com-212121?style=for-the-badge&logo=gmail)](mailto:leonidgrdev@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-leonid.gessner-212121?style=for-the-badge&logo=facebook)](https://fb.com/leonid.gessner)
 

@@ -1,4 +1,4 @@
-#Léonid Gr
+# Léonid Gr
 
 Étudiant en informatique, orienté systèmes, Linux et DevOps.
 
